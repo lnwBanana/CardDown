@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pokemon-deck-builder": "github:simeydotme/pokemon-cards-css"
+  }
+}
